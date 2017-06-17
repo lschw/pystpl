@@ -1,7 +1,8 @@
 # benchmarks
 
 ## benchsimple
-In the subfolder [benchsimple/](benchmark/benchsimple/), there is a configuration file [config_pystpl.py](benchmark/benchsimple/config_pystpl.py) for the **benchsimple** template engine benchmark (see [https://www.simple-is-better.org/template/#benchsimple](https://www.simple-is-better.org/template/#benchsimple)).
+
+In the subfolder [benchsimple/](benchsimple/), there is a configuration file [config_pystpl.py](benchsimple/config_pystpl.py) for the **benchsimple** template engine benchmark (see [https://www.simple-is-better.org/template/#benchsimple](https://www.simple-is-better.org/template/#benchsimple)).
 
 Run the benchmark via
 
