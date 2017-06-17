@@ -1,0 +1,18 @@
+benchsimple 20130402
+    * Python 3 support (now working under Python 2.x / 3.x)
+    * benchsimple_* renamed to config_*
+
+    * modified benchmark to create a slightly more complex result
+      (Note that because of this, this results in slower benchmark-results
+      than the previous version 20081220.)
+
+    * added configurations for templates:
+      Chameleon 1, Chameleon 2, Cheetah 2.x Genshi (text+XML), Jinja 1.2,
+      Jinja 2.0.
+    * removed configurations for templates:
+      Cheetah 2.0rc
+
+benchsimple 20081220
+    * initial release with configurations for:
+      Cheetah 2.0rc, cubictemp 0.4, cubictemp 2.0, EmPy, evoque, Jinja 0.7,
+      Mako, pyratemp, SimpleTAL

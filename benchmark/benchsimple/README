@@ -1,0 +1,14 @@
+Simple benchmark for (Python-) Template-Engines.
+
+:Author:  Roland Koebler <rk *at* simple-is-better *dot* org>
+:Version: 2013-04-02
+
+Usage:
+    ``benchsimple.py <TEMPLATEENGINEs>``
+
+    where TEMPLATEENGINEs can be any engine for which a
+    config_TEMPLATEENGINE.py exists.
+
+See ``pydoc benchsimple`` and http://www.simple-is-better.org/template/ for
+details.
+
